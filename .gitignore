@@ -51,3 +51,5 @@ RELEASE_NOTES.md
 
 # Produced by integ tests
 read*lock
+.devcontainer/devcontainer.json
+packages/**/**/*
